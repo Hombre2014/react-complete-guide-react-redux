@@ -2,19 +2,19 @@
 
 > By Maximilian Schwarzmuller from PACKT, Academind
 
-## Meals complete app
+## React Redux app
 
-Apps for listing meals and adding them into a purchase cart, plus fetching the meals from Firebase and sending a POST request to Firebase.
+Using Redux with React.
 
 ## User Guide
 
 ### Clone the repository
 
-`git clone (https://github.com/Hombre2014/react-complete-guide-meals-complete.git)`
+`git clone (https://github.com/Hombre2014/react-complete-guide-react-redux.git)`
 
 ### Change the directory
 
-`cd react-complete-guide-meals-complete`
+`cd react-complete-guide-react-redux`
 
 ### Install dependencies
 
@@ -39,7 +39,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Hombre/react-complete-guide-meals-complete/issues).
+Feel free to check the [issues page](https://github.com/Hombre/react-complete-guide-react-redux/issues).
 
 ## Show your support
 
